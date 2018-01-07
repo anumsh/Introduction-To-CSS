@@ -1,0 +1,27 @@
+/* 
+Add your styles below this :
+1. set the .wrapper to a width of 70%.
+2. for both the header and footer :
+	set the background color to purple
+	set the text color to white
+	add a padding to all four sides of 30px
+3. For the .content:
+	add a 1px solid border coloured black
+	add a padding to all the four sides of 30px
+	add a top and bottom margin of 10px
+
+ */
+ .wrapper {
+ 	width:70%;
+ }
+header, footer {
+	background-color: purple;
+	color: white;
+	padding: 30px;
+}
+.content {
+	border:1px solid black;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
